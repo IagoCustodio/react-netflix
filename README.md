@@ -36,7 +36,7 @@
 <div align="center"><a name="menu"></a>
 
 ![img1](https://github.com/IagoCustodio/react-netflix/assets/74364305/a7fa8956-8c5d-4dc6-b0dc-d338777e411a)
-![ScreenShot](/public/images/readme/6.jpg)
+![imf3](https://github.com/IagoCustodio/react-netflix/assets/74364305/5faa20ad-0b4c-458f-b70b-34d9d96294ef)
 ![ScreenShot](/public/images/readme/7.jpg)
 ![ScreenShot](/public/images/readme/8.jpg)
 ![ScreenShot](/public/images/readme/9.jpg)

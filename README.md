@@ -26,7 +26,7 @@
 </div>
 
 
-# Eu construí este projeto usando as seguintes ferramentas e recursos. técnicas
+# Eu construí este projeto usando as seguintes ferramentas.
 
 Ferramentas utilizadas no projeto
 
